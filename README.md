@@ -1,2 +1,26 @@
-# MQL5-Strategy-Engine
-Open-source MQL5 trading framework featuring modular strategy engines, adaptive market analysis, intelligent risk management, dashboard UI components, and reusable utilities for MetaTrader 5. Built to help developers create, test, and optimize algorithmic trading systems.
+# MQL5 Strategy Engine
+
+An open-source framework for developing intelligent MetaTrader 5 Expert Advisors.
+
+## Features
+
+- Modular strategy engine
+- Multiple trading strategies
+- Adaptive market analysis
+- Risk management
+- Position sizing
+- Dashboard UI
+- Session filters
+- Backtesting utilities
+- Strategy optimization
+- Reusable MQL5 components
+
+## Roadmap
+
+- [ ] Core Engine
+- [ ] Strategy Manager
+- [ ] Dashboard
+- [ ] Risk Manager
+- [ ] Documentation
+
+Contributions are welcome.
